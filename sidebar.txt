@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vnp:home|Door43 (vnp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vnp|d43-vnp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vnp/archive/master.zip|d43-vnp.zip]]
+
+**Recent Changes**
+{{changes>ns = vnp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vnp|Ethnologue data]]
+
